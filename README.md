@@ -2,6 +2,12 @@
 
 A modern, interactive web-based version of the classic Simon memory game, built using **HTML**, **CSS**, and **JavaScript**. Test your memory skills by following and repeating an ever-growing sequence of colors and sounds.
 
+
+![Home](https://github.com/user-attachments/assets/02eaf19e-3838-4ec6-9400-4ce9f298685f)
+![MId-Game-Level](https://github.com/user-attachments/assets/dd27bab1-c0ac-4386-8b34-6221aeb8432a)
+![Game-Over](https://github.com/user-attachments/assets/c8a37848-d6eb-4674-87a2-06068ea9b535)
+
+
 ---
 
 ## 🚀 Live Demo
