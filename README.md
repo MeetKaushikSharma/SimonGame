@@ -2,8 +2,6 @@
 
 A modern, interactive web-based version of the classic Simon memory game, built using **HTML**, **CSS**, and **JavaScript**. Test your memory skills by following and repeating an ever-growing sequence of colors and sounds.
 
-![SimonGame Preview](./SimonGame.mp4)
-
 ---
 
 ## 🚀 Live Demo
@@ -36,12 +34,12 @@ SimonGame/
 ├── styles.css
 ├── game.js
 ├── sounds/
-│ ├── green.mp3
-│ ├── red.mp3
-│ ├── yellow.mp3
-│ ├── blue.mp3
-│ └── wrong.mp3
-└── SimonGame.mp4
+ ├── green.mp3
+ ├── red.mp3
+ ├── yellow.mp3
+ ├── blue.mp3
+ └── wrong.mp3
+
 
 
 ---
